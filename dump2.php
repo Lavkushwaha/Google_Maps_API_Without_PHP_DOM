@@ -1,5 +1,6 @@
 <?php
 /**
+ *when this is executed it return database values in XML format which is required for map placing Markers 
  * Created by PhpStorm.
  * User: incals
  * Date: 6/8/2017
